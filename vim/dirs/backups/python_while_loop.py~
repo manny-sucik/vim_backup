@@ -1,0 +1,9 @@
+# while loop is used in python to  repeats a series of steps/ code so many times
+# while loop is knows as nondeterministic loop
+
+i = 0
+while i < 3:
+    print(f'{i} is less than 3')
+
+
+

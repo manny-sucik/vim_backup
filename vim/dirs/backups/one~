@@ -1,0 +1,27 @@
+pressing w will move the cursor one word forward at a time.
+pressing b will move the cursor one word backward at a time.
+pressind e key will move your cursor to the end of the word.
+pressing 0 will get your cursor to the start of the line.
+pressing $ move your cursor to the end of the line.
+
+ editing commands
+pressing shift + o will put you above where you are in insert mode.
+pressing o will put you in insert mode and start a new line under the line where your cursor is.
+
+pressing d followed by w(word) e(end of word) will delete the chractors.
+pressing c will delete and put you in insert mode so you can change/replace the word/charactor.
+
+
+pressing y (stands for yank) will copy, yy will copy a line.
+pressing p will paste what have been copied.
+
+pressing v will get you to the vitual mode, then you can move to select the text you bother about, then you can press y to copy, x to delete and soo onn.
+
+
+gg will get you to the top/ begging of the file
+shift + g will get you to the end of the file.
+
+---This is to be deleted and then replaced by some other text may be or maybe!.
+---this line are here to be messed with
+--- and this is another line to be messed with
+---this is the four line to be messed around with 

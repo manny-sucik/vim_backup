@@ -1,0 +1,16 @@
+# tuples are immutable data type which means you can not chnaged once you create it
+
+random_junk = ('bacon', 5, True, 11, 'your mother was a hamster!',)
+print(len(random_junk))
+print(random_junk[len(random_junk) -1])
+
+for x in random_junk:
+    if type(x) == int:
+        print(f'{x} is an integer and is in the random_junk tupel!)
+    elif type(x) == str:
+              print(f'{x} is a string in the random_junk tuple!!')
+    elif type(x) == bool:
+              print(f'{x} here x should be True or False!!!')
+    else:
+              print(f'{x}')
+

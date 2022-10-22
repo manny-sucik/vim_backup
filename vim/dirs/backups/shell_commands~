@@ -1,0 +1,11 @@
+top ___ displays all the running processes on the machine.
+ps__ process status, like task manager in windows, similar to top command
+kill __ to terminale a process, kill [id of process]
+nice -n nice value process name ___ to set the nicess value for the programm.
+df ___ display the free disk space.
+free ___ shows free and used memory ram on the linux system
+sudo adduser [user name] ___ to add a new user to the system.
+sudo asswd -l [user name] ___ to disable the password for the user you want to delete then it will you to delete the user.
+sudo userdel -r [user name] ___ to delete the user.
+cd - ___ will tell shell to go back you whatever dir you shere.
+systemctl suspend ____ to suspend or hybernate the pc.

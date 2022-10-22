@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+
+print("please enter name here: ");
+$name + <STDIN>;
+print("Thank you for that $name");
+print(\n)

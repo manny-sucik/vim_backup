@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/sucik/vimrv_from_macbook/.vimrc'
+let g:netrw_dirhist_5='/home/sucik/programming/python'
+let g:netrw_dirhist_4='/home/sucik/programming/learning_java'
+let g:netrw_dirhist_3='/home/sucik/snap/chromium/common/chromium'
+let g:netrw_dirhist_2='/home/sucik/snap/chromium/common/chromium/SafetyTips'
+let g:netrw_dirhist_1='/home/sucik/uni/Academic_skill'

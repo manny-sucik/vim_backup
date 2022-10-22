@@ -1,0 +1,19 @@
+:q __ to quite vim
+:wq __ will save the change and quit vim
+dd __ pressing d twice will delete the whole line
+gg __ pressing g twice will put your cursor at the top of the page
+G __ pressing a capital g will put your cursor at the bottom of the page
+{ -- } __ using square bracket will allows you to move a block of code at a time
+u __ the letter u will undo your change in vim
+ctrl+r __ will redo the change for you in vim
+yy __ pressing y twice will copy the line for you
+p __ to paste what you have copied
+0 ___ pressing 0 will take your cursor at the beginning of the line
+$ __ to move your cursor at the end of the line in vim
+
+vimtutor ___ this will bring the vim tutorial in the command line
+x __ to delete a charactor
+u ___ to undo what you have deleted
+dw __ to delete a whole word
+w __ pressing w will move you a word at a time forword
+b __pressing b will move you backword one word at a time
